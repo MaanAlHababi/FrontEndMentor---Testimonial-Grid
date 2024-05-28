@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
+- Solution URL: ([https://your-solution-url.com](https://github.com/MaanAlHababi/FrontEndMentor---Testimonial-Grid))
 - Live Site URL: ([https://your-live-site-url.com](https://maanalhababi.github.io/FrontEndMentor---Testimonial-Grid/))
 
 ## My process
